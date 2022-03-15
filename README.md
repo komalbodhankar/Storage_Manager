@@ -1,4 +1,4 @@
-# ************************* STORAGE MANAGER **************************** #
+# ************** STORAGE MANAGER *************** #
 
 # Files in the storage manager #
 
@@ -13,7 +13,7 @@
 ###   3. Makefile
 ###   4. README
 
-# ********************************************************************* #
+# ********************************************** #
 
 # STEPS TO START THE SCRIPT #
 
@@ -28,7 +28,7 @@ After we execute the 4th step, a new file named `test_assign1_1.c` will be gener
 5. Run the `./test_assign1_1` command to run the newly generated file. 
 
 
-# ********************************************************************* #
+# ********************************************** #
 
 # FUNCTION DESCRIPTIONS: #
 
@@ -105,6 +105,6 @@ After we execute the 4th step, a new file named `test_assign1_1.c` will be gener
        > - If it is, the pages are added using appendEmptyBlock()
 
 
-# ********************************************************************* #
+# ********************************************** #
 
 *An error message will be provided whenever we encounter an error which will be envoked from the dberror.c file*    
