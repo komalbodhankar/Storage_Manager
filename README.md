@@ -1,6 +1,6 @@
 # ************** STORAGE MANAGER *************** #
 
-## Files in the storage manager ##
+## DELIVERABLES ##
 
 ###  1. C files:
  > - storage_mgr.c
