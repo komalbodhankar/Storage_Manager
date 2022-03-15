@@ -1,6 +1,6 @@
 # ************** STORAGE MANAGER *************** #
 
-# Files in the storage manager #
+## Files in the storage manager ##
 
 ###  1. C files:
  > - storage_mgr.c
@@ -15,7 +15,7 @@
 
 # ********************************************** #
 
-# STEPS TO START THE SCRIPT #
+## STEPS TO START THE SCRIPT ##
 
 0. Start the Linux system
 1. Open terminal and go to the project root
@@ -30,7 +30,7 @@ After we execute the 4th step, a new file named `test_assign1_1.c` will be gener
 
 # ********************************************** #
 
-# FUNCTION DESCRIPTIONS: #
+## FUNCTION DESCRIPTIONS: ##
 
 1.  Functions that will manipulate the file pages like creating, opening, closing and destroying 
  
